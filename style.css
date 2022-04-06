@@ -1,0 +1,117 @@
+.barra{
+list-style-type:none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #529E7C;
+text-align: right;
+border-right: 1px solid #bbb;
+display: block;
+color: white;
+padding: 14px 16px;
+}
+.barra .p{
+text-align: left; 
+}
+
+
+header nav a:hover:not(.active){
+background-color: #ddd;
+}
+section aside {
+
+  list-style-type: none ;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  background-color:#529E7C ;
+}
+section aside a{
+display: block;
+width: 60px;
+}
+h2{
+    text-align: center;
+}
+.section1 {
+ text-align: center;
+ background-color: #AAC39B;
+ width: 60%;
+ margin-left: 240px;
+ height: 60%;
+     
+}
+.section1 .fotito{
+  width: 60px;
+  height:200px ;
+  margin-left: 650px;
+
+}
+h3{
+  text-align:  center;
+}
+.ulen {
+  text-align: center;
+}
+.formulario{
+text-align: center;
+}
+.QUIEN{
+text-align: center;
+}
+ .sale {
+  display: inline-block;
+  width: 10%;
+  background-color: #529E7C;
+  margin-left: 150px;
+  height: 500%;
+  
+}
+article{
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+footer{
+  text-align: center;
+}
+.img img{
+width: 40px;
+height: 40px;
+}
+section .formulario{
+  margin-left: 400px;
+background-color: #AAC39B;
+border: 2px solid;
+width: 430px;
+}
+.formulario .green{
+  background-color:  #AAC39B ;
+  }
+.sitemap{
+border: 1px solid;
+display: inline-block;
+width: 30%;
+text-align: center;
+background-color:  #AAC39B;
+margin-left: 10px;
+
+} 
+.who {
+  text-align: center;
+  margin-left: 120px;
+  background-color:  #AAC39B;
+  width: 80%;
+}
+section .formulario .green{
+width: 90%;
+  border: 2px solid;
+}
+.ulen{
+background-color: #AAC39B;
+width: 60%;
+margin-left: 220px;
+
+
+}
+
